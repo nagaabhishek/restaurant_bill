@@ -1,2 +1,2 @@
 # restaurant_bill
-credits: https://github.com/krishnaik06
+Kaggle dataset
